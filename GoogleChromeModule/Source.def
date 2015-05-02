@@ -1,0 +1,3 @@
+LIBRARY GoogleChromeModule
+EXPORTS
+	runModule

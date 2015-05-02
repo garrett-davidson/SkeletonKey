@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SkeletonKey", "SkeletonKey\SkeletonKey.vcxproj", "{C502CA12-A50D-4F5E-9A01-B67501823B66}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoogleChromeModule", "GoogleChromeModule\GoogleChromeModule.vcxproj", "{ECFD5A13-B429-4CF2-9D6D-B4AA956BC920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C502CA12-A50D-4F5E-9A01-B67501823B66}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C502CA12-A50D-4F5E-9A01-B67501823B66}.Debug|Win32.Build.0 = Debug|Win32
+		{C502CA12-A50D-4F5E-9A01-B67501823B66}.Release|Win32.ActiveCfg = Release|Win32
+		{C502CA12-A50D-4F5E-9A01-B67501823B66}.Release|Win32.Build.0 = Release|Win32
+		{ECFD5A13-B429-4CF2-9D6D-B4AA956BC920}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECFD5A13-B429-4CF2-9D6D-B4AA956BC920}.Debug|Win32.Build.0 = Debug|Win32
+		{ECFD5A13-B429-4CF2-9D6D-B4AA956BC920}.Release|Win32.ActiveCfg = Release|Win32
+		{ECFD5A13-B429-4CF2-9D6D-B4AA956BC920}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
